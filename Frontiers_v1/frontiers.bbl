@@ -1,0 +1,244 @@
+\begin{thebibliography}{29}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+
+\bibitem[{Achanta et~al.(2005)Achanta, Sasaki, Feng, Carew, Lu, Pelicano
+  et~al.}]{achanta2005novel}
+Achanta, G., Sasaki, R., Feng, L., Carew, J.~S., Lu, W., Pelicano, H., et~al.
+  (2005).
+\newblock Novel role of p53 in maintaining mitochondrial genetic stability
+  through interaction with dna pol $\gamma$.
+\newblock \emph{The EMBO journal} 24, 3482--3492
+\bibAnnoteFile{achanta2005novel}
+
+\bibitem[{Carlson et~al.(2016)Carlson, Falcon, Pages, and
+  Li}]{carlson2016hgu133plus2}
+Carlson, M., Falcon, S., Pages, H., and Li, N. (2016).
+\newblock hgu133plus2. db: Affymetrix human genome u133 plus 2.0 array
+  annotation data (chip hgu133plus2).
+\newblock \emph{R package version} 3
+\bibAnnoteFile{carlson2016hgu133plus2}
+
+\bibitem[{Chang et~al.(2003)Chang, Lee, Navolanic, Steelman, Shelton, Blalock
+  et~al.}]{chang2003involvement}
+Chang, F., Lee, J., Navolanic, P., Steelman, L., Shelton, J., Blalock, W.,
+  et~al. (2003).
+\newblock Involvement of pi3k/akt pathway in cell cycle progression, apoptosis,
+  and neoplastic transformation: a target for cancer chemotherapy.
+\newblock \emph{Leukemia} 17, 590
+\bibAnnoteFile{chang2003involvement}
+
+\bibitem[{Ferreira(2007)}]{ferreira2007benjamini}
+Ferreira, J.~A. (2007).
+\newblock The benjamini-hochberg method in the case of discrete test
+  statistics.
+\newblock \emph{The international journal of biostatistics} 3
+\bibAnnoteFile{ferreira2007benjamini}
+
+\bibitem[{Gautier et~al.(2004)Gautier, Cope, Bolstad, and
+  Irizarry}]{gautier2004affy}
+Gautier, L., Cope, L., Bolstad, B.~M., and Irizarry, R.~A. (2004).
+\newblock affy-analysis of affymetrix genechip data at the probe level.
+\newblock \emph{Bioinformatics} 20, 307--315
+\bibAnnoteFile{gautier2004affy}
+
+\bibitem[{Gulmann et~al.(2009)Gulmann, Sheehan, Conroy, Wulfkuhle, Espina,
+  Mullarkey et~al.}]{gulmann2009quantitative}
+Gulmann, C., Sheehan, K.~M., Conroy, R.~M., Wulfkuhle, J.~D., Espina, V.,
+  Mullarkey, M.~J., et~al. (2009).
+\newblock Quantitative cell signalling analysis reveals down-regulation of mapk
+  pathway activation in colorectal cancer.
+\newblock \emph{The Journal of Pathology: A Journal of the Pathological Society
+  of Great Britain and Ireland} 218, 514--519
+\bibAnnoteFile{gulmann2009quantitative}
+
+\bibitem[{Iglesias et~al.(2012)Iglesias, Salas, and
+  Costoya}]{iglesias2012maintenance}
+Iglesias, P., Salas, A., and Costoya, J.~A. (2012).
+\newblock The maintenance of mitochondrial genetic stability is crucial during
+  the oncogenic process.
+\newblock \emph{Communicative \& integrative biology} 5, 34--38
+\bibAnnoteFile{iglesias2012maintenance}
+
+\bibitem[{Irizarry et~al.(2003)Irizarry, Hobbs, Collin, Beazer-Barclay,
+  Antonellis, Scherf et~al.}]{irizarry2003exploration}
+Irizarry, R.~A., Hobbs, B., Collin, F., Beazer-Barclay, Y.~D., Antonellis,
+  K.~J., Scherf, U., et~al. (2003).
+\newblock Exploration, normalization, and summaries of high density
+  oligonucleotide array probe level data.
+\newblock \emph{Biostatistics} 4, 249--264
+\bibAnnoteFile{irizarry2003exploration}
+
+\bibitem[{Itatani et~al.(2016)Itatani, Kawada, Inamoto, Yamamoto, Ogawa, Taketo
+  et~al.}]{itatani2016role}
+Itatani, Y., Kawada, K., Inamoto, S., Yamamoto, T., Ogawa, R., Taketo, M.,
+  et~al. (2016).
+\newblock The role of chemokines in promoting colorectal cancer
+  invasion/metastasis.
+\newblock \emph{International journal of molecular sciences} 17, 643
+\bibAnnoteFile{itatani2016role}
+
+\bibitem[{Klaus and Birchmeier(2008)}]{klaus2008wnt}
+Klaus, A. and Birchmeier, W. (2008).
+\newblock Wnt signalling and its impact on development and cancer.
+\newblock \emph{Nature Reviews Cancer} 8, 387
+\bibAnnoteFile{klaus2008wnt}
+
+\bibitem[{Li et~al.(2015)Li, Zhou, Chen, and Chng}]{li2015p53}
+Li, X.-L., Zhou, J., Chen, Z.-R., and Chng, W.-J. (2015).
+\newblock P53 mutations in colorectal cancer-molecular pathogenesis and
+  pharmacological reactivation.
+\newblock \emph{World journal of gastroenterology: WJG} 21, 84
+\bibAnnoteFile{li2015p53}
+
+\bibitem[{Liu et~al.(2004)Liu, Parant, Lang, Chau, Chavez-Reyes, El-Naggar
+  et~al.}]{liu2004chromosome}
+Liu, G., Parant, J.~M., Lang, G., Chau, P., Chavez-Reyes, A., El-Naggar, A.~K.,
+  et~al. (2004).
+\newblock Chromosome stability, in the absence of apoptosis, is critical for
+  suppression of tumorigenesis in trp53 mutant mice.
+\newblock \emph{Nature genetics} 36, 63
+\bibAnnoteFile{liu2004chromosome}
+
+\bibitem[{Maddika et~al.(2007)Maddika, Ande, Panigrahi, Paranjothy, Weglarczyk,
+  Zuse et~al.}]{maddika2007cell}
+Maddika, S., Ande, S.~R., Panigrahi, S., Paranjothy, T., Weglarczyk, K., Zuse,
+  A., et~al. (2007).
+\newblock Cell survival, cell death and cell cycle pathways are interconnected:
+  implications for cancer therapy.
+\newblock \emph{Drug Resistance Updates} 10, 13--29
+\bibAnnoteFile{maddika2007cell}
+
+\bibitem[{Nepusz et~al.(2012)Nepusz, Yu, and Paccanaro}]{nepusz2012detecting}
+Nepusz, T., Yu, H., and Paccanaro, A. (2012).
+\newblock Detecting overlapping protein complexes in protein-protein
+  interaction networks.
+\newblock \emph{Nature methods} 9, 471
+\bibAnnoteFile{nepusz2012detecting}
+
+\bibitem[{Oh et~al.(2014)Oh, Gwak, Park, and Yang}]{oh2014green}
+Oh, S., Gwak, J., Park, S., and Yang, C.~S. (2014).
+\newblock Green tea polyphenol egcg suppresses w nt/$\beta$-catenin signaling
+  by promoting gsk-3$\beta$-and pp2a-independent $\beta$-catenin
+  phosphorylation/degradation.
+\newblock \emph{Biofactors} 40, 586--595
+\bibAnnoteFile{oh2014green}
+
+\bibitem[{Ritchie et~al.(2015)Ritchie, Phipson, Wu, Hu, Law, Shi
+  et~al.}]{ritchie2015limma}
+Ritchie, M.~E., Phipson, B., Wu, D., Hu, Y., Law, C.~W., Shi, W., et~al.
+  (2015).
+\newblock limma powers differential expression analyses for rna-sequencing and
+  microarray studies.
+\newblock \emph{Nucleic acids research} 43, e47--e47
+\bibAnnoteFile{ritchie2015limma}
+
+\bibitem[{Russo et~al.(2005)Russo, Bazan, Iacopetta, Kerr, Soussi, and
+  Gebbia}]{russo2005tp53}
+Russo, A., Bazan, V., Iacopetta, B., Kerr, D., Soussi, T., and Gebbia, N.
+  (2005).
+\newblock The tp53 colorectal cancer international collaborative study on the
+  prognostic and predictive significance of p53 mutation: influence of tumor
+  site, type of mutation, and adjuvant treatment.
+\newblock \emph{Journal of clinical oncology} 23, 7518--7528
+\bibAnnoteFile{russo2005tp53}
+
+\bibitem[{Rychahou et~al.(2005)Rychahou, Murillo, and
+  Evers}]{rychahou2005targeted}
+Rychahou, P.~G., Murillo, C.~A., and Evers, B.~M. (2005).
+\newblock Targeted rna interference of pi3k pathway components sensitizes colon
+  cancer cells to tnf-related apoptosis-inducing ligand (trail).
+\newblock \emph{Surgery} 138, 391--397
+\bibAnnoteFile{rychahou2005targeted}
+
+\bibitem[{Shannon et~al.(2003)Shannon, Markiel, Ozier, Baliga, Wang, Ramage
+  et~al.}]{shannon2003cytoscape}
+Shannon, P., Markiel, A., Ozier, O., Baliga, N.~S., Wang, J.~T., Ramage, D.,
+  et~al. (2003).
+\newblock Cytoscape: a software environment for integrated models of
+  biomolecular interaction networks.
+\newblock \emph{Genome research} 13, 2498--2504
+\bibAnnoteFile{shannon2003cytoscape}
+
+\bibitem[{Sherman et~al.(2009)Sherman, Lempicki et~al.}]{sherman2009systematic}
+Sherman, B.~T., Lempicki, R.~A., et~al. (2009).
+\newblock Systematic and integrative analysis of large gene lists using david
+  bioinformatics resources.
+\newblock \emph{Nature protocols} 4, 44--57
+\bibAnnoteFile{sherman2009systematic}
+
+\bibitem[{Shim et~al.(2015)Shim, Dong, Lee, and
+  Ryu}]{shim2015atractylochromene}
+Shim, A.-R., Dong, G.-z., Lee, H.~J., and Ryu, J.-H. (2015).
+\newblock Atractylochromene is a repressor of wnt/$\beta$-catenin signaling in
+  colon cancer cells.
+\newblock \emph{Biomolecules \& therapeutics} 23, 26
+\bibAnnoteFile{shim2015atractylochromene}
+
+\bibitem[{Siegel et~al.(2019)Siegel, Miller, and Jemal}]{siegel2019cancer}
+Siegel, R.~L., Miller, K.~D., and Jemal, A. (2019).
+\newblock Cancer statistics, 2019.
+\newblock \emph{CA: a cancer journal for clinicians} 69, 7--34
+\bibAnnoteFile{siegel2019cancer}
+
+\bibitem[{Smyth et~al.(2005)Smyth, Ritchie, Thorne, and
+  Wettenhall}]{smyth2005limma}
+Smyth, G.~K., Ritchie, M., Thorne, N., and Wettenhall, J. (2005).
+\newblock Limma: linear models for microarray data. in bioinformatics and
+  computational biology solutions using r and bioconductor. statistics for
+  biology and health
+\bibAnnoteFile{smyth2005limma}
+
+\bibitem[{Suzuki and Matsubara(2011)}]{suzuki2011recent}
+Suzuki, K. and Matsubara, H. (2011).
+\newblock Recent advances in p53 research and cancer treatment.
+\newblock \emph{BioMed Research International} 2011
+\bibAnnoteFile{suzuki2011recent}
+
+\bibitem[{Szklarczyk et~al.(2014)Szklarczyk, Franceschini, Wyder, Forslund,
+  Heller, Huerta-Cepas et~al.}]{szklarczyk2014string}
+Szklarczyk, D., Franceschini, A., Wyder, S., Forslund, K., Heller, D.,
+  Huerta-Cepas, J., et~al. (2014).
+\newblock String v10: protein--protein interaction networks, integrated over
+  the tree of life.
+\newblock \emph{Nucleic acids research} 43, D447--D452
+\bibAnnoteFile{szklarczyk2014string}
+
+\bibitem[{Trost and McDonnell(2005)}]{trost2005important}
+Trost, L. and McDonnell, J. (2005).
+\newblock Important cutaneous manifestations of inflammatory bowel disease.
+\newblock \emph{Postgraduate medical journal} 81, 580--585
+\bibAnnoteFile{trost2005important}
+
+\bibitem[{Xiong et~al.(2002)Xiong, Gong, Zhang, Hu, and Yuan}]{xiong2002tgf}
+Xiong, B., Gong, L.-L., Zhang, F., Hu, M.-B., and Yuan, H.-Y. (2002).
+\newblock Tgf-$\beta$1 expression and angiogenesis in colorectal cancer tissue.
+\newblock \emph{World journal of gastroenterology} 8, 496
+\bibAnnoteFile{xiong2002tgf}
+
+\bibitem[{You et~al.(2010)You, Zhou, Chen, Zhou, Lv, Han et~al.}]{you2010ptch1}
+You, S., Zhou, J., Chen, S., Zhou, P., Lv, J., Han, X., et~al. (2010).
+\newblock Ptch1, a receptor of hedgehog signaling pathway, is correlated with
+  metastatic potential of colorectal cancer.
+\newblock \emph{Upsala journal of medical sciences} 115, 169--175
+\bibAnnoteFile{you2010ptch1}
+
+\bibitem[{Zhong and Neubig(2001)}]{zhong2001regulator}
+Zhong, H. and Neubig, R.~R. (2001).
+\newblock Regulator of g protein signaling proteins: novel multifunctional drug
+  targets.
+\newblock \emph{Journal of Pharmacology and Experimental Therapeutics} 297,
+  837--845
+\bibAnnoteFile{zhong2001regulator}
+
+\end{thebibliography}
